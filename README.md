@@ -11,7 +11,7 @@ Some more dummy text. 25 mins until lunch!
 * docker - if time permits
 * hand out reading assignments and homework!
 
-![](grover2.PNG)
+![](grover2.gif)
 
 
 ![](https://github.com/NoRicePls/NUS_Test_20210111/blob/main/grover2.PNG)
