@@ -12,3 +12,7 @@ Some more dummy text. 25 mins until lunch!
 * hand out reading assignments and homework!
 
 ![](grover)
+
+
+![](https://raw.githubusercontent.com/NoRicePls/NUS-test-20210111/main/grover.gif)
+
