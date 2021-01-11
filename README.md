@@ -14,5 +14,5 @@ Some more dummy text. 25 mins until lunch!
 ![](grover2)
 
 
-![](https://raw.githubusercontent.com/NoRicePls/NUS-test-20210111/main/grover.gif)
+![](https://raw.githubusercontent.com/NoRicePls/NUS-test-20210111/main/grover2.gif)
 
