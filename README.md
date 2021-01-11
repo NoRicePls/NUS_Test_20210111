@@ -11,6 +11,6 @@ Some more dummy text. 25 mins until lunch!
 * docker - if time permits
 * hand out reading assignments and homework!
 
-![](grover2.png)
+![](grover2.PNG)
 
 
